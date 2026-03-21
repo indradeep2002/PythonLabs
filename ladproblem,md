@@ -1,0 +1,17 @@
+# Lab Problem: Bank Account System
+## Problem Statement
+
+### Create a Bank Account system using Python OOP where a user can:
+
+* Create a bank account
+* Deposit money
+* Withdraw money
+* Check balance
+
+#### Use a constructor (__init__) to initialize:
+
+* Account holder name
+* Account number
+* Balance
+
+##### Use self to access and update the object variable
